@@ -9,7 +9,7 @@ float top_distance;
 
 CCSize* visibleSize;
 
-const int MENU_ID_ABOUT = 1;
+const int MENU_ID_ABOUT = 3;
 const int MENU_ID_START = 2;
 
 CCScene* HelloWorld::scene()
